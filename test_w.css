@@ -1,0 +1,149 @@
+#t_b{
+    margin-top: 14px;
+}
+
+#ul_nav{
+    padding-top: 15px;
+}
+nav{
+	padding: 2%;
+
+}
+#navi{
+	margin-bottom: 0;
+    background-color: white;
+      margin: 50px auto;
+  border: none;
+}
+
+a {
+text-decoration: none;
+color: #a2a2a2;
+font-size: 15px;
+font-family: "Archer Bold"
+}
+#home{
+	color: #37b6b4;
+}
+#R_Q{
+display: block;
+background-image: url('base.gif');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center center;
+height: 800px;
+}
+#white_h1{
+	color: white;
+	font-size: 60px;
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 70px;
+}
+#white_h2{
+	color: white;
+	font-size: 45px;
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    font-family:Pacifico;
+}
+#under_white_h2{
+	color: white;
+	font-size: 23px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    font-family:Pacifico;
+    width: 25%;
+    position: relative;
+    margin-bottom: 250px;
+
+}
+#number{
+	color: white;
+	font-size: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: right;
+    font-family:Pacifico;
+    position: relative;
+	} 
+#bed_bug{
+    display: -webkit-inline-box;
+    color:white;
+}
+#bed_bugg{
+    padding-left: 15px;
+}
+#l_BB{
+    background-color: #db4826;
+    border-radius: 7px;
+    margin-left: 5px;
+    max-width: 208px;
+}
+#to_the_right{
+    text-align: right;   
+    float: left;}
+section#R_Q>div{
+    width: 680px;
+    margin: 0 auto 250px auto;
+}
+section#R_Q>a:hover{
+    text-decoration: 
+}
+#vr-line{
+    width: 1px;
+    height: 65px;
+    border-left: 1px solid white;
+    float: left;
+    display: inline;
+    margin: 15px;
+}
+#free_qt{
+    padding: 15px 35px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 40px;
+    color: #37b6b4;
+    text-decoration: none;
+}
+#kitchen{
+display: block;
+background-image: url('kitchen.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center center;
+height: 800px;
+}
+#bathroom{
+display: block;
+background-image: url('bathroom.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center center;
+height: 800px;
+}
+#R_Q2{
+ display: block;
+background-image: url('common_area.png');
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center center;
+height: 800px;   
+}
+section#R_Q2>header{
+    margin-left: 45px;
+    padding-top: 50px;
+}
+section#R_Q2>header>button{
+    margin-left: 10px;
+}
